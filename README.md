@@ -10,5 +10,5 @@
   <a href="https://discord.com/users/702905315674554389" target="_blank"><button>Discord</button></a>
   <a href="https://github.com/enesemre0" target="_blank"><button>Github</button></a><br><br>
   <a href="https://discord.gg/UEPcFtytcc" target="_blank"><button>Letna Discord</button></a>
-  <a href="steam://connect/185.198.75.24:27015" target="_blank"><button>Letna CS:GO</button></a>
+  <a href="steam://connect/185.198.75.24:27015"><button>Letna CS:GO</button></a>
 </div>
