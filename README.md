@@ -7,8 +7,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enesemre0&show_icons=true&theme=dark&hide_border=true&layout=compact" width="%100" height="100%">
   <br><br>
   <h1>İletişim</h1>
-  <a href="https://discord.com/users/702905315674554389" target="_blank"><button type="button">Discord</button></a>
-  <a href="https://github.com/enesemre0" target="_blank"><button>Github</button></a><br><br>
-  <a href="https://discord.gg/UEPcFtytcc" target="_blank"><button>Letna Discord</button></a>
-  <a href="steam://connect/185.198.75.24:27015"><button>Letna CS:GO</button></a>
+  <a href="https://discord.com/users/702905315674554389" target="_blank"><img src="https://img.shields.io/badge/DISCORD-gray?style=for-the-badge&logo=discord"></a>
+  <a href="https://github.com/enesemre0" target="_blank"><img src="https://img.shields.io/badge/GITHUB-gray?style=for-the-badge&logo=github"></a><br><br>
+  <a href = "https://discord.gg/6xXzZ3ZvMz" target="_blank"><img alt="Discord" src="https://img.shields.io/discord/802317746561482782?color=green&label=Letna%20Jailbreak&logo=discord&style=for-the-badge"></a>
+  <img src="https://img.shields.io/badge/185.198.75.24:27015-green?style=for-the-badge&logo=Counter-Strike&label=Letna%20CS%3AGO&labelColor=red">
 </div>
