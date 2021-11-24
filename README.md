@@ -9,7 +9,4 @@
   <h1>İletişim</h1>
   <a href="https://discord.com/users/702905315674554389" target="_blank"><img src="https://img.shields.io/badge/DISCORD-gray?style=for-the-badge&logo=discord"></a>
   <a href="https://github.com/enesemre0" target="_blank"><img src="https://img.shields.io/badge/GITHUB-gray?style=for-the-badge&logo=github"></a><br><br>
-  <h1>Letna</h1>
-  <a href = "https://discord.gg/6xXzZ3ZvMz" target="_blank"><img alt="Discord" src="https://img.shields.io/discord/802317746561482782?color=black&label=Letna%20Discord&logo=discord&style=for-the-badge&labelColor=dark"></a><br>
-  <img src="https://img.shields.io/badge/185.198.75.24:27015-green?style=for-the-badge&logo=Counter-Strike&label=Letna%20CS%3AGO&labelColor=dark">
 </div>
