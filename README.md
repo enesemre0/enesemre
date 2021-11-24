@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hakkımda</h1>
-  <p>Merhabalar Ben Enes Emre, 16 Yaşındayım ve Lise 3'ye Gitmekteyim. Şuanda Discord Üzerinden Bot Geliştirmekteyim ve Ayriyetten CS:GO İçin Plugin Yazmaktayım. Hedefim Web Developer ve Mobil Programlamayı Öğrenmek :)</p>
+  <p>Merhabalar Ben Enes Emre, 16 Yaşındayım ve Lise 3'e Gitmekteyim. Şuanda Discord Üzerinden Bot Geliştirmekteyim ve Ayriyetten CS:GO İçin Plugin Yazmaktayım. Hedefim Web Developer ve Mobil Programlamayı Öğrenmek :)</p>
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=enesemre0&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px">
   <br>
