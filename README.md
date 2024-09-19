@@ -2,12 +2,15 @@
   <h1>Hakkımda</h1>
   <p>Merhabalar Ben Enes Emre, 19 Yaşındayım ve Üniversite Öğrencisiyim. 2020 yılından 2023 yılına kadar Discord üzerinden bot geliştiriyordum ve CS:GO için plugin yazıyordum. Ayrıca mobil programcılığa da ilgim var, yeni projeler yakında sizlerle.</p>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=enesemre0&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px">
+  <img src="https://github-readme-stats.vercel.app/api?username=enesemre0&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true" width="%100" height="150px">
+  <br>
+  <img src ="https://github-readme-streak-stats.herokuapp.com/?user=enesemre0&theme=midnight-purple&hide_border=false" width="%100" height="150px">
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enesemre0&show_icons=true&theme=dark&hide_border=true&layout=compact" width="%100" height="100%">
   <br><br>
   <h1>İletişim</h1>
-  <a href="https://discord.com/users/702905315674554389" target="_blank"><img src="https://img.shields.io/badge/DISCORD-gray?style=for-the-badge&logo=discord"></a>
-  <a href="https://github.com/enesemre0" target="_blank"><img src="https://img.shields.io/badge/GITHUB-gray?style=for-the-badge&logo=github"></a><br><br>
+  <a href="https://instagram.com/eenesemre0" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+  <a href="https://github.com/enesemre0" target="_blank"><img src="https://img.shields.io/badge/GITHUB-gray?style=for-the-badge&logo=github"></a>
+  <a href ="mailto:enesemre0@protonmail.com" target="_blank"><img src=https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white></a><br><br>
 </div>
  
