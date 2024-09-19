@@ -10,3 +10,4 @@
   <a href="https://discord.com/users/702905315674554389" target="_blank"><img src="https://img.shields.io/badge/DISCORD-gray?style=for-the-badge&logo=discord"></a>
   <a href="https://github.com/enesemre0" target="_blank"><img src="https://img.shields.io/badge/GITHUB-gray?style=for-the-badge&logo=github"></a><br><br>
 </div>
+ 
